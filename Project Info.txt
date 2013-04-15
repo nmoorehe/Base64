@@ -1,0 +1,12 @@
+Purpose of Script: To encode plain text into a string of ASCII characters suitable for emailing using base64.
+Extended Purpose: To decode a base64 string of ASCII characters back into the original plain text.
+
+Student Information
+Name: Nathan Moorehead
+ID: 927-18-1187
+Semester: Spring 2013
+Professor: Dr. Punosevac
+Class: CSCI-3030-A, Math for Computer Science
+Project Due Date: 4-15-2013
+
+See bottom of script for usage example.
